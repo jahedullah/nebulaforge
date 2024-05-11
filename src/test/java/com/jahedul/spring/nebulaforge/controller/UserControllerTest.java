@@ -27,7 +27,7 @@ public class UserControllerTest {
     @Test
     public void testTestMethod() {
         String result = userController.testMethod();
-        assertEquals("test clears", result);
+        assertEquals("test clear", result);
     }
 
 }
