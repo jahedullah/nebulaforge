@@ -10,6 +10,8 @@ import org.mockito.MockitoAnnotations;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+// this is usercontroller test class
+
 public class UserControllerTest {
 
     @Mock
