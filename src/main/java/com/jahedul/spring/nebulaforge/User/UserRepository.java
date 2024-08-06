@@ -1,6 +1,5 @@
-package com.jahedul.spring.nebulaforge.repository;
+package com.jahedul.spring.nebulaforge.User;
 
-import com.jahedul.spring.nebulaforge.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User, Integer> {

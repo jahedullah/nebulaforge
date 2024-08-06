@@ -1,6 +1,5 @@
-package com.jahedul.spring.nebulaforge.controller;
+package com.jahedul.spring.nebulaforge.Url;
 
-import com.jahedul.spring.nebulaforge.service.UrlService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

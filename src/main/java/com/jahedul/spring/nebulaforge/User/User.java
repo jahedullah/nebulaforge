@@ -1,4 +1,4 @@
-package com.jahedul.spring.nebulaforge.entity;
+package com.jahedul.spring.nebulaforge.User;
 
 import jakarta.persistence.*;
 import lombok.Getter;

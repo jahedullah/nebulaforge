@@ -1,7 +1,5 @@
-package com.jahedul.spring.nebulaforge.controller;
+package com.jahedul.spring.nebulaforge.User;
 
-import com.jahedul.spring.nebulaforge.entity.User;
-import com.jahedul.spring.nebulaforge.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

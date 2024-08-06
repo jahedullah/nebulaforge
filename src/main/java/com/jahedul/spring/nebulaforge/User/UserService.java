@@ -1,6 +1,4 @@
-package com.jahedul.spring.nebulaforge.service;
-
-import com.jahedul.spring.nebulaforge.entity.User;
+package com.jahedul.spring.nebulaforge.User;
 
 import java.util.Optional;
 

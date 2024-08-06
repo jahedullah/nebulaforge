@@ -1,7 +1,5 @@
-package com.jahedul.spring.nebulaforge.service;
+package com.jahedul.spring.nebulaforge.User;
 
-import com.jahedul.spring.nebulaforge.entity.User;
-import com.jahedul.spring.nebulaforge.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

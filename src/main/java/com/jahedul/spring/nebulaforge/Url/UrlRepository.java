@@ -1,6 +1,5 @@
-package com.jahedul.spring.nebulaforge.repository;
+package com.jahedul.spring.nebulaforge.Url;
 
-import com.jahedul.spring.nebulaforge.entity.Url;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

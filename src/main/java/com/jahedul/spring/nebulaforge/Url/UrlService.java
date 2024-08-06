@@ -1,6 +1,4 @@
-package com.jahedul.spring.nebulaforge.service;
-
-import com.jahedul.spring.nebulaforge.entity.Url;
+package com.jahedul.spring.nebulaforge.Url;
 
 import java.util.Optional;
 

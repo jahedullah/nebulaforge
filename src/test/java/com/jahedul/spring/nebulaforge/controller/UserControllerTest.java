@@ -1,7 +1,8 @@
 package com.jahedul.spring.nebulaforge.controller;
 
 
-import com.jahedul.spring.nebulaforge.service.UserService;
+import com.jahedul.spring.nebulaforge.User.UserController;
+import com.jahedul.spring.nebulaforge.User.UserService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
